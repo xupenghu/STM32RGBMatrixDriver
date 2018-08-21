@@ -1,0 +1,2 @@
+# STM32RGBMatrixDriver
+这是一个基于STM32F4的HUB75接口的32*64全彩点阵屏音乐频谱项目
